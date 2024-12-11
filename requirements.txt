@@ -1,0 +1,6 @@
+yt-dlp==2023.10.10   # For downloading videos from various platforms
+aiohttp==3.8.5       # For asynchronous HTTP requests
+watchdog==3.0.0      # For monitoring directory changes
+requests==2.31.0     # For handling HTTP requests
+python-dotenv==1.0.0 # For managing environment variables (e.g., API keys)
+loguru==0.7.0        # For enhanced logging
